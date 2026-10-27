@@ -1,11 +1,22 @@
-# SaveTheMoments
-SaveTheMoments è progetto volto a agevolare la condisivisione delle foto agli eventi.
+# 📸 SaveTheMoment
 
-Immagina di avere in programma un evento e voler raccogliere in un unico posto tutte le foto dei tuoi invitati.
-Chiedere ad uno ad uno di condividertele tramite messaggi può essere stancante e macchinoso.
-E, invece, se tutto fosse più semplice e divertente?!
-Scegli *saveTheMoment* per salvare i momenti piu importanti in un unico posto.
-Scatta o carica la tua foto e condividi!
-Tu avrai le foto che gli invitati ti hanno scattato al tuo evento e gli inviatati scambieranno le proprie foto in piattaforma senza doversi scambiare i numeri.
-Il giorno dopo, riceverai tutte le foto all'email indicata e il tuo evento è salvato. 
-E il tuo momento è salvato!
+**SaveTheMoment** è un progetto nato per agevolare la condivisione delle foto durante gli eventi.
+
+---
+
+### 💡 Il Problema
+Immagina di avere in programma un evento e di voler raccogliere in un unico posto tutti gli scatti dei tuoi invitati. Chiedere a ciascuno di inviarteli singolarmente tramite messaggi può rivelarsi stancante e macchinoso. 
+
+**E se invece tutto fosse più semplice e divertente?**
+
+---
+
+### ✨ La Soluzione
+Scegli **SaveTheMoment** per custodire i tuoi ricordi più importanti in un unico spazio:
+
+* **Scatta o carica** la tua foto e condividila all'istante!
+* **Raccogli i ricordi:** tu avrai subito a disposizione tutte le foto che gli invitati hanno scattato durante l'evento.
+* **Condivisione immediata:** gli invitati potranno scambiarsi e visualizzare le foto direttamente in piattaforma, senza la necessità di scambiarsi i numeri di telefono.
+* **Consegna automatica:** il giorno successivo riceverai tutte le foto direttamente all'indirizzo email indicato.
+
+Il tuo evento è al sicuro. **E il tuo momento è salvato!**
