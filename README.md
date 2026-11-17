@@ -1,7 +1,7 @@
 # 📸 SaveTheMoment
 
 **SaveTheMoment** è un progetto nato per agevolare la condivisione delle foto durante gli eventi.
-<img width="512" height="512" alt="62959hammerandwrench_109289" src="https://github.com/user-attachments/assets/73ee8697-b0df-415a-b787-9632ec7f8f17" /> Novembre 2026
+Novembre 2026
 ---
 
 ### 💡 Il Problema
