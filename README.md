@@ -2,7 +2,7 @@
 
 **SaveTheMoment** è un progetto nato per agevolare la condivisione delle foto durante gli eventi.
 
-🛠️Settembre 2026
+🛠️Ottobre 2026
 
 ---
 
